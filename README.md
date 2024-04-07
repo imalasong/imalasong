@@ -4,6 +4,6 @@
 
 
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.go`
-- 🌍 I'm mostly active within the **xxx**
+- 🌍 I am interested in **microservices**, **databases**, and **blockchain**
 
 - 💬 `ping` me about **email:2879499479@qq.com**
