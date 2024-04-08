@@ -2,10 +2,8 @@
 I am a backend development engineer
 
 - 🌐 Visit my [portfolio website](https://imalasong.github.io/) for more information and to get in touch.
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.go`
 - 🌍 I am interested in **microservices**, **databases**, and **blockchain**
-- ✍️ Follow me on [Email](2879499479@qq.com) and github.
-
+- ✍️ Follow me on **Email:2879499479@qq.com** or **Github**.
 
 
 <p align="left">
