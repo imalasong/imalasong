@@ -3,7 +3,7 @@ I am a backend development engineer
 
 - 🌐 Visit my [portfolio website](https://imalasong.github.io/) for more information and to get in touch.
 - 🌍 I am interested in **microservices**, **databases**, and **blockchain**
-- ✍️ Follow me on **Email:2879499479@qq.com** or **Github**.
+- ✍️ Follow me on **Email** or **Github**.
 
 
 <p align="left">
